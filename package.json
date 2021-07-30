@@ -11,7 +11,7 @@
   "dependencies": {
     "async": "~0.1.22",
     "moment": "~2.0.0",
-    "underscore": "~1.5.0"
+    "underscore": "~1.13.1"
   },
   "devDependencies": {
     "disposable-seraph": "^0.3.4",
